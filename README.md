@@ -6,4 +6,6 @@ Notebooks for the analysis of galaxy clusters in ComCam data
 
 `ACO360_WL_HSCcalib_CLMM` - First attempt at getting a shear profile around the Abell 360 cluster from ComCam data, using color cut source selection, HSC calibration, and CLMM for the shear profile measurement. Main steps are there but a lot remain to be checked/improved.
 
-`ACO360_WL_HSCcalib_CLMM` - Computing a mass_map around Abell 360 from ComCam data. Borrows from calibration/selection of `ACO360_WL_HSCcalib_CLMM`
+`ACO360_WL_HSCcalib_MassMap` - Computing a mass_map around Abell 360 from ComCam data. Borrows from calibration/selection of `ACO360_WL_HSCcalib_CLMM`
+
+`ACO360_PSF_properties` - Check the PSF correction in Abell 360 field. Whisker plots, etc.
