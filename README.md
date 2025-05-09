@@ -10,3 +10,5 @@ Notebooks for the analysis of galaxy clusters in ComCam data
 `ACO360_PSF_properties` - Check the PSF correction in Abell 360 field. Whisker plots, etc.
 
 `ACO360_rgb_and_WLsources` - Make RGB images of all the patches in the field of Abell 360, with sources overlaid.
+
+`ACO360_RS` - Studying the Red Sequence (RS) galaxies in Abell 360.
