@@ -15,4 +15,4 @@ Notebooks for the analysis of galaxy clusters in ComCam data
 
 `Firefly_Masking` - Tutorial for hand-masking in the Firefly image viewer.
 
-`A360_masking_example.ipynb` - Tutorial for applying the photometry mask.
+`A360_masking_example` - Tutorial for applying the photometry mask.
