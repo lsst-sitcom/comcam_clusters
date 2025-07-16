@@ -14,3 +14,5 @@ Notebooks for the analysis of galaxy clusters in ComCam data
 `ACO360_RS` - Studying the Red Sequence (RS) galaxies in Abell 360.
 
 `Firefly_Masking` - Tutorial for hand-masking in the Firefly image viewer.
+
+`A360_masking_example` - Tutorial for applying the photometry mask.
